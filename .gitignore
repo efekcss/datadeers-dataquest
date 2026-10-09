@@ -1,0 +1,21 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+woRking-files/woRking-files.Rproj
+
+# woRking-files altındaki .csv dosyalarının görünmemesi gerekli 
+woRking-files/WPP2024_Demographic_Indicators_Medium.csv
+woRking-files/WPP2024_Demographic_Indicators_notes.csv
+woRking-files/WPP2024_Demographic_Indicators_OtherVariants.csv
+woRking-files/WPP2024_Supplement_Births_and_LE60.csv
+
+# orijinal dosyalar içindeki asıl dataset'ler saklandı diğer yardımcı dokümantasyon dosyaları bırakıldı
+original-files/WPP2024_Demographic_Indicators_Medium_csv.gz
+original-files/WPP2024_Demographic_Indicators_notes.csv
+original-files/WPP2024_Demographic_Indicators_OtherVariants_csv.gz
+original-files/WPP2024_Supplement_Births_and_LE60.csv
+
+# KVKK gereği mentor bilgileri saklandı
+original-files/ASA_DATA_QUEST_MENTOR_INFO.xlsx
